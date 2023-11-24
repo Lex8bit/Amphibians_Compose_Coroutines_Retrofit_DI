@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amphibians</string>
+    <string name="amphibians">Amphibians information</string>
+    <string name="name_and_type">%s (%s)</string>
+    <string name="loading_failed">Loading failed</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+</resources>
